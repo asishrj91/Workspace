@@ -1,1 +1,1 @@
-print(ko)
+print("ko")
